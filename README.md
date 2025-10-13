@@ -67,5 +67,4 @@
 
 ---
 
-### ⚡ Fun Fact  
-> I think I’m funny because even my SQL queries occasionally throw jokes back at me 😄
+�
