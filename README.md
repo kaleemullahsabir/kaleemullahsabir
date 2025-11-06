@@ -11,7 +11,7 @@
 - 📊 **Certified Data Analyst** skilled in **Power BI, Excel, Python, SQL, and R**.  
 - 🎓 **BS Software Engineering Student** at Virtual University of Pakistan.  
 - 📱 Currently building **Idean App** using **FlutterFlow** to explore app development.  
-- 🧾 [**View My Resume**](https://drive.google.com/file/d/1FGPOfIESOk5REaq4bV1kzaDTzdmzQHnm/view?usp=drive_link)  
+- 🧾 [**View My Resume**](https://drive.google.com/file/d/1UovpioD_U8JSshOM5WcIDx07FQmwrtdW/view?usp=drive_link)  
 - 🌟 Passionate about **turning raw data into actionable insights** and creating interactive dashboards.  
 
 ---
