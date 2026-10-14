@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer & Enterprise Application Developer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaleemullahsabir&label=Profile%20Views&color=0078D4&style=flat-square" alt="profile views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaleemullahsabir&count_bg=%230078D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
 </p>
 
 ---
