@@ -2,7 +2,9 @@
 <h3 align="center">Software Engineer & Enterprise Application Developer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaleemullahsabir&count_bg=%230078D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-Live-0078D4?style=flat-square&logo=github" alt="Profile Views"/>
+</p>
 </p>
 
 ---
